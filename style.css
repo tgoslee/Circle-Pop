@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: lightcoral;
+  font-family: 'Permanent Marker', cursive;
+  padding: 30px;
+}
+.wrapper{
+    max-width: 690px;
+    margin:0 auto;
+}
+.blue{
+    color:blue;
+}
+#circle-gallery div{
+   text-align: center;
+   border-radius: 100%;
+   margin-top:20px;
+   display: inline-block;
+   margin: 10px 5px 2.5px 0px;
+   height: 121px;
+   width:119px;
+   background: teal;
+
+}
+#no-circles {
+    display:none;
+    font-size: 100px;
+}
